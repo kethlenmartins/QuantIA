@@ -19,7 +19,7 @@
 
 ## 📝 Link de demonstração
 
-📺| O vídeo de demonstração do projeto pode ser encontrado no link a seguir: 
+📺| O vídeo de demonstração do projeto pode ser encontrado no link a seguir: https://youtu.be/FXEx-rufO0g
 
 ## 💻 Configuração para desenvolvimento e execução do código
 
