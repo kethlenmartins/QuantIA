@@ -1,0 +1,47 @@
+{
+  "version": 2,
+  "dgSpecHash": "7efXBQllHvA=",
+  "success": false,
+  "projectFilePath": "c:\\Users\\owall\\Downloads\\Projeto StarkBank\\AlgoritimoQuantico\\QuantumChatbotDriver.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\owall\\.nuget\\packages\\microsoft.quantum.qsharp.core\\0.27.236950\\microsoft.quantum.qsharp.core.0.27.236950.nupkg.sha512",
+    "C:\\Users\\owall\\.nuget\\packages\\microsoft.quantum.qsharp.foundation\\0.27.236950\\microsoft.quantum.qsharp.foundation.0.27.236950.nupkg.sha512",
+    "C:\\Users\\owall\\.nuget\\packages\\microsoft.quantum.runtime.core\\0.27.236950\\microsoft.quantum.runtime.core.0.27.236950.nupkg.sha512",
+    "C:\\Users\\owall\\.nuget\\packages\\microsoft.quantum.simulators\\0.27.236950\\microsoft.quantum.simulators.0.27.236950.nupkg.sha512",
+    "C:\\Users\\owall\\.nuget\\packages\\microsoft.quantum.standard\\0.27.236950\\microsoft.quantum.standard.0.27.236950.nupkg.sha512",
+    "C:\\Users\\owall\\.nuget\\packages\\microsoft.quantum.targets.interfaces\\0.27.236950\\microsoft.quantum.targets.interfaces.0.27.236950.nupkg.sha512",
+    "C:\\Users\\owall\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\owall\\.nuget\\packages\\numsharp\\0.20.5\\numsharp.0.20.5.nupkg.sha512",
+    "C:\\Users\\owall\\.nuget\\packages\\system.collections.immutable\\1.6.0\\system.collections.immutable.1.6.0.nupkg.sha512",
+    "C:\\Users\\owall\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
+    "C:\\Users\\owall\\.nuget\\packages\\system.reflection.metadata\\1.7.0\\system.reflection.metadata.1.7.0.nupkg.sha512",
+    "C:\\Users\\owall\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\owall\\.nuget\\packages\\system.text.encodings.web\\6.0.0\\system.text.encodings.web.6.0.0.nupkg.sha512",
+    "C:\\Users\\owall\\.nuget\\packages\\system.text.json\\6.0.3\\system.text.json.6.0.3.nupkg.sha512",
+    "C:\\Users\\owall\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.33\\microsoft.netcore.app.ref.6.0.33.nupkg.sha512",
+    "C:\\Users\\owall\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.33\\microsoft.windowsdesktop.app.ref.6.0.33.nupkg.sha512",
+    "C:\\Users\\owall\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.33\\microsoft.aspnetcore.app.ref.6.0.33.nupkg.sha512",
+    "C:\\Users\\owall\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.33\\microsoft.netcore.app.host.win-x64.6.0.33.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1603",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "QuantumChatbotDriver depende de Microsoft.Quantum.Standard (>= 0.27.2101), mas Microsoft.Quantum.Standard 0.27.2101 não foi encontrado. A melhor correspondência aproximada de Microsoft.Quantum.Standard 0.27.236950 foi resolvida.",
+      "libraryId": "Microsoft.Quantum.Standard",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    },
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Não é possível encontrar o pacote Microsoft.Quantum.Simulation.Simulators. Não existe nenhum pacote com esta ID nas origens: nuget.org",
+      "libraryId": "Microsoft.Quantum.Simulation.Simulators",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    }
+  ]
+}
